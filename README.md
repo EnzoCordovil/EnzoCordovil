@@ -1,3 +1,5 @@
+[Português](README.md) | [English](README.en.md)
+
 <p align="center">
   <img src="./Assets/NewBanner.png" alt="Banner de Enzo Castro" width="100%" />
 </p>
@@ -8,7 +10,7 @@
 
 Sou Enzo Castro, formado em Engenharia de Controle e Automação, com conclusão no final de 2026.
 
-Meu objetivo profissional é atuar como projetista, desenvolvendo soluções que conectem programação e automação. Tenho conhecimentos em Python, C, C++ e Ladder para programação de CLPs.
+Este perfil reúne meu portfólio de projetos e soluções que conectam programação e automação. Minha base técnica abrange Python, C, C++ e programação de CLPs em Ladder, com foco no desenvolvimento de sistemas de controle e automação.
 
 Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
@@ -65,10 +67,7 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
 🔎 **[Conheça meus repositórios](https://github.com/EnzoCastro-neko?tab=repositories)**
 
-<!-- Adicione aqui os projetos em destaque conforme forem publicados.
-Para cada um, inclua uma imagem, uma descrição curta e o link. -->
 
----
 
 ### 📊 Estatísticas
 
