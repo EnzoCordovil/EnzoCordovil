@@ -83,4 +83,4 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
   alt="Estatísticas do GitHub de Enzo Castro"
   src="https://github-stats-extended.vercel.app/api?username=EnzoCastro-neko&show_icons=true&theme=tokyonight&locale=pt-br"
 />
-```
+
