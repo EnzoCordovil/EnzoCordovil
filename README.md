@@ -37,7 +37,7 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
 ---
 
-### 🛠️ Projetos de Engenharia
+### 🛠️ Projetos 
 
 Meu portfólio tem foco em **automação e programação**, com atenção à lógica de controle e à solução de problemas de engenharia.
 
