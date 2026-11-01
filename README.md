@@ -1,4 +1,12 @@
-[Português](README.md) | [English](README.en.md)
+<p align="center">
+  <a href="./README.md">
+    <img src="./Assets/portugues.svg" alt="Ler em português" width="200" height="52" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="./README.en.md">
+    <img src="./Assets/english.svg" alt="Read in English" width="200" height="52" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./Assets/NewBanner.png" alt="Banner de Enzo Castro" width="100%" />
