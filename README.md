@@ -23,12 +23,12 @@ Este perfil reúne meu portfólio de projetos e soluções que conectam programa
 Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
 <p align="left">
-  <a href="https://github.com/EnzoCastro-neko?tab=repositories">
-    <img alt="Meus projetos" src="https://img.shields.io/badge/Meus_Projetos-6750A4?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/EnzoCastro-neko?tab=followers">
-    <img alt="Seguidores" src="https://img.shields.io/github/followers/EnzoCastro-neko?style=for-the-badge&label=Seguidores&color=375A9E&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/EnzoCordovil?tab=followers">
+  <img
+    alt="Seguidores"
+    src="https://img.shields.io/github/followers/EnzoCordovil?style=for-the-badge&label=Seguidores&color=375A9E&logo=github&logoColor=white"
+  />
+</a>
 </p>
 
 ---
