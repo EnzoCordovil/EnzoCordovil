@@ -48,7 +48,7 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
 ---
 
 ### 🛠️ Projetos
-
+🔎 **[Conheça meus repositórios](https://github.com/EnzoCordovil?tab=repositories)**
 <table>
   <tr>
     <td width="420" valign="top">
@@ -73,7 +73,6 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
   </tr>
 </table>
 
-🔎 **[Conheça meus repositórios](https://github.com/EnzoCordovil?tab=repositories)**
 
 
 
