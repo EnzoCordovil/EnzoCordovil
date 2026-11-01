@@ -1,6 +1,5 @@
 <p align="center">
- <img src="./Assets/NewBannerpng" alt="Banner de Enzo Castro" width="100%" />
-
+  <img src="./Assets/NewBanner.png" alt="Banner de Enzo Castro" width="100%" />
 </p>
 
 # ⚙️ Enzo Castro
