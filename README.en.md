@@ -23,7 +23,12 @@ This profile showcases my portfolio of projects and solutions that connect progr
 
 My technical background covers Python, C, C++, and PLC programming in Ladder Logic, with a focus on developing control and automation systems.
 
----
+<a href="https://github.com/EnzoCordovil?tab=followers">
+  <img
+    alt="Seguidores"
+    src="https://img.shields.io/github/followers/EnzoCordovil?style=for-the-badge&label=Seguidores&color=375A9E&logo=github&logoColor=white"
+  />
+</a>
 
 ### 🤖 Languages and Technologies
 
