@@ -16,7 +16,7 @@
 
 **`Engenheiro de Controle e Automação | Automação e Programação`**
 
-Sou Enzo Castro, formado em Engenharia de Controle e Automação, com conclusão no final de 2026.
+Sou Enzo Castro, formado em Engenharia de Controle e Automação, com conclusão dezembro de 2026.
 
 Este perfil reúne meu portfólio de projetos e soluções que conectam programação e automação. Minha base técnica abrange Python, C, C++ e programação de CLPs em Ladder, com foco no desenvolvimento de sistemas de controle e automação.
 
