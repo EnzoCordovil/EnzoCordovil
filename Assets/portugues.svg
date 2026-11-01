@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="52" viewBox="0 0 200 52">
+  <rect x="1" y="1" width="198" height="50" rx="13" fill="#141225" stroke="#65518F"/>
+  <rect x="2" y="2" width="196" height="48" rx="12" fill="none" stroke="#C4B5FD" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="0.25;1;0.25" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <path d="M18 19L25 26L18 33" fill="none" stroke="#A78BFA" stroke-width="2"/>
+  <text x="113" y="32" text-anchor="middle" fill="#F3EEFF" font-family="Consolas,monospace" font-size="16" font-weight="700" letter-spacing="2">PORTUGUÊS</text>
+</svg>
