@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner com círculos geométricos em tons de azul e roxo sobre fundo estrelado" width="100%" />
+ <img src="./Assets/Banner.png" alt="Banner do perfil de Enzo Castro" width="100%" />
 </p>
 
 # ⚙️ Enzo Castro
