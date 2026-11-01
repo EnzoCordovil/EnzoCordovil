@@ -37,16 +37,31 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
 ---
 
-### 🛠️ Projetos 
+### 🛠️ Projetos
 
-Meu portfólio tem foco em **automação e programação**, com atenção à lógica de controle e à solução de problemas de engenharia.
-
-Na documentação de cada projeto, busco apresentar:
-
-- O problema e o objetivo da solução.
-- As tecnologias e os componentes utilizados.
-- A lógica de funcionamento e os diagramas relevantes.
-- As demonstrações, os testes e os resultados obtidos.
+<table>
+  <tr>
+    <td width="420" valign="top">
+      <h3>💧 Controle de nível de água</h3>
+      <a href="https://github.com/EnzoCastro-neko/controle-nivel-agua-arduino">
+        <img
+          src="https://raw.githubusercontent.com/EnzoCastro-neko/controle-nivel-agua-arduino/main/docs/Vista_3D_Conceitual.png"
+          alt="Vista 3D conceitual do sistema de controle de nível de água"
+          width="400"
+        />
+      </a>
+      <p>
+        Projeto de reposição automática de água com Arduino Uno,
+        sensores capacitivos e válvula solenoide, com supervisão
+        de falhas e verificação por simulação.
+      </p>
+      <p><strong>Arduino · C++ · Automação</strong></p>
+      <a href="https://github.com/EnzoCastro-neko/controle-nivel-agua-arduino">
+        📂 Ver projeto e documentação
+      </a>
+    </td>
+  </tr>
+</table>
 
 🔎 **[Conheça meus repositórios](https://github.com/EnzoCastro-neko?tab=repositories)**
 
