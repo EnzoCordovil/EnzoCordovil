@@ -1,66 +1,65 @@
+
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner com círculos geométricos em tons de azul e roxo sobre fundo estrelado" width="100%" />
+</p>
+
 # ⚙️ Enzo Castro
 
-**`Engenheiro de Controle e Automação | Foco em projetos de automação e programação`**
+**`Engenheiro de Controle e Automação | Automação e Programação`**
 
-Sou Enzo Castro, formado em Engenharia de Controle e Automação, com conclusão final de 2026.
+Sou Enzo Castro, formado em Engenharia de Controle e Automação, com conclusão no final de 2026.
 
 Meu objetivo profissional é atuar como projetista, desenvolvendo soluções que conectem programação e automação. Tenho conhecimentos em Python, C, C++ e Ladder para programação de CLPs.
 
-Este perfil reúne meu portfólio de projetos, estudos e soluções desenvolvidas ao longo da minha trajetória.
+Aqui compartilho meus projetos, estudos e soluções de engenharia.
 
 <p align="left">
   <a href="https://github.com/EnzoCastro-neko?tab=repositories">
-    <img
-      alt="Meus repositórios"
-      src="https://img.shields.io/badge/Meus_Projetos-236AD3?style=for-the-badge&logo=github&logoColor=white"
-    />
+    <img alt="Meus projetos" src="https://img.shields.io/badge/Meus_Projetos-6750A4?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/EnzoCastro-neko?tab=followers">
-    <img
-      alt="Seguidores no GitHub"
-      src="https://img.shields.io/github/followers/EnzoCastro-neko?style=for-the-badge&label=Seguidores&color=236AD3&logo=github"
-    />
+    <img alt="Seguidores" src="https://img.shields.io/github/followers/EnzoCastro-neko?style=for-the-badge&label=Seguidores&color=375A9E&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 💻 Tecnologias e Conhecimentos
+### 🤖 Linguagens e Tecnologias
 
-<p align="left">
-  <img alt="Python" title="Python" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<p>
+  <img alt="Python" title="Python" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;
-  <img alt="C" title="C" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img alt="C" title="C" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   &nbsp;
-  <img alt="C++" title="C++" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="C++" title="C++" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
 
-![Ladder](https://img.shields.io/badge/Ladder-Programação_de_CLPs-155E75?style=for-the-badge)
+**Automação:** conhecimentos em Ladder para programação de CLPs.
 
 ---
 
-### 🛠️ Portfólio de Projetos
+### 🛠️ Projetos de Engenharia
 
-Meu foco está em projetos de automação e programação, com atenção à lógica de controle e à solução de problemas de engenharia.
+Meu portfólio tem foco em **automação e programação**, com atenção à lógica de controle e à solução de problemas de engenharia.
 
-Nos repositórios, compartilho os objetivos de cada projeto, as tecnologias utilizadas e seu funcionamento.
+Na documentação de cada projeto, busco apresentar:
 
-🔎 **[Explore meus projetos](https://github.com/EnzoCastro-neko?tab=repositories)**
+- O problema e o objetivo da solução.
+- As tecnologias e os componentes utilizados.
+- A lógica de funcionamento e os diagramas relevantes.
+- As demonstrações, os testes e os resultados obtidos.
+
+🔎 **[Conheça meus repositórios](https://github.com/EnzoCastro-neko?tab=repositories)**
+
+<!-- Adicione aqui os projetos em destaque conforme forem publicados.
+Para cada um, inclua uma imagem, uma descrição curta e o link. -->
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<p align="left">
-  <img
-    alt="Estatísticas do GitHub de Enzo Castro"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=EnzoCastro-neko&show_icons=true&theme=tokyonight&locale=pt-br"
-  />
-  <img
-    alt="Linguagens mais utilizadas nos repositórios"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoCastro-neko&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=6"
-  />
-</p>
+<img
+  alt="Estatísticas do GitHub de Enzo Castro"
+  src="https://github-stats-extended.vercel.app/api?username=EnzoCastro-neko&show_icons=true&theme=tokyonight&locale=pt-br"
+/>
 ```
