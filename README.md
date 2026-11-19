@@ -55,7 +55,7 @@ Aqui compartilho meus projetos, estudos e soluções de engenharia.
       <h3>💧 Controle de nível de água</h3>
       <a href="https://github.com/EnzoCordovil/controle-nivel-arduino">
         <img
-          src="https://raw.githubusercontent.com/EnzoCordovil/controle-nivel-arduino/main/docs/Vista_3D_Conceitual.png"
+          src=["https://raw.githubusercontent.com/EnzoCordovil/controle-nivel-arduino/main/docs/Vista_3D_Conceitual.png"](https://raw.githubusercontent.com/EnzoCordovil/Controle-nivel-arduino/main/docs/maquete-reservatorio-revisada.jpg)
           alt="Vista 3D conceitual do sistema de controle de nível de água"
           width="400"
         />
